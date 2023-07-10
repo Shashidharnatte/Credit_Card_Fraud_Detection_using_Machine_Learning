@@ -10,19 +10,3 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 
 Download link: https://www.kaggle.com/mlg-ulb/creditcardfraud
-
-# Libraries
-
-pandas <br/>
-matplotlib <br/>
-seaborn <br/>
-scikit-learn <br/>
-
-# Algorithms
-
-Decision Tree <br/>
-K-Nearest Neighbours <br/>
-Logistic Regression <br/>
-Support Vector Machine <br/>
-Random Forest <br/>
-XGBoost <br/>
